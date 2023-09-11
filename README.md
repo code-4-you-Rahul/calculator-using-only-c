@@ -1,5 +1,5 @@
 # calculator-using-only-c
-this source code is used to solve only -algebraic-calculation -Trigonometric-Differentiation-Integration -square root of any-power operation-<br/>
+//this source code is used to solve only -algebraic-calculation -Trigonometric-Differentiation-Integration -square root of any-power operation-<br/>
 //Starts from Here::<br/>
 //<br/> tag is used for next line in github::<br/>
 #include<stdio.h><br/>
@@ -7,7 +7,7 @@ this source code is used to solve only -algebraic-calculation -Trigonometric-Dif
 #include<math.h><br/>
 //SCIENTIFIC CALCULATOR:<br/>
 int main (){<br/>
-      for(int i=0;;i++){
+      for(int i=0;;i++){s
 <br/>
 printf("enter (1) for ALGEBRIC       calculation\n");<br/>
 printf("enter (2) for DERIATIVE   of trigonometry function\n");<br/>
